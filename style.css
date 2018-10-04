@@ -1,0 +1,27 @@
+*
+{
+  font-family: Verdana, sans-serif;
+}
+.Début
+{
+  font-size: 40px;text-align: center;
+}
+li{
+  font-family: Verdana, sans-serif;
+  font-size: 100%;
+  color: black;
+  display : list-item;
+  list-style-image : url(http://icons.iconarchive.com/icons/mad-science/arcade-saturdays/16/Mario-Standing-icon.png);
+}
+.Contacts
+{
+  text-align: center;border: 6px #AB4824 ridge;border-radius: 20px / 10px;box-shadow: 6px 6px 0px brown;color: ##FFFFFF;
+}
+.Métier
+{
+  font-style: italic;font-size: 40px;text-align: center;
+}
+.Rubriques
+{
+  font-size: 30px;border: 6px #AB4824 ridge;border-radius: 20px / 10px;box-shadow: 6px 6px 0px brown;color: ##FFFFFF;font-weight: bold;
+}
